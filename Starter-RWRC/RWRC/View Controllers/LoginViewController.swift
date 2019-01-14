@@ -66,6 +66,7 @@ class LoginViewController: UIViewController {
   // MARK: - Actions
   
   @IBAction func actionButtonPressed() {
+    print("button pressed")
     signIn()
   }
   
@@ -93,12 +94,14 @@ class LoginViewController: UIViewController {
   private func signIn() {
     guard let name = displayNameField.text, !name.isEmpty else {
       showMissingNameAlert()
+
       return
     }
     
     displayNameField.resignFirstResponder()
     
     AppSettings.displayName = name
+
     Auth.auth().signInAnonymously(completion: nil)
   }
   

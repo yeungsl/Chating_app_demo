@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>310506613834-kl2bd7c5f0ttbgj6dgfofe0r44arc9f4.apps.googleusercontent.com</string>
+	<string>445752268256-jc6i8u3e3mfk3362ur87j75k1raer13d.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.310506613834-kl2bd7c5f0ttbgj6dgfofe0r44arc9f4</string>
+	<string>com.googleusercontent.apps.445752268256-jc6i8u3e3mfk3362ur87j75k1raer13d</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA7M_aQZjxmQI3OUUhmGuhLPbj91xyl5i8</string>
+	<string>AIzaSyBNGhbW4oR3RUPvEx69XyZuOFdxXgQgkl4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>310506613834</string>
+	<string>445752268256</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.razeware.RWRC-review</string>
+	<string>com.razeware.RWRC</string>
 	<key>PROJECT_ID</key>
-	<string>rwrc-review</string>
+	<string>anonchat-a22ac</string>
 	<key>STORAGE_BUCKET</key>
-	<string>rwrc-review.appspot.com</string>
+	<string>anonchat-a22ac.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:310506613834:ios:e50c0823863ffdf4</string>
+	<string>1:445752268256:ios:d2860faf8f0e3da5</string>
 	<key>DATABASE_URL</key>
-	<string>https://rwrc-review.firebaseio.com</string>
+	<string>https://anonchat-a22ac.firebaseio.com</string>
 </dict>
 </plist>
